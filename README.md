@@ -1,4 +1,4 @@
-# GA_to_tsp-java-tsp-
+# GA_to_deal_tsp_byjava
 遗传算法解决tsp问题，地区之间距离保存在excel里，即dis.xls文件中
 ### 如何执行
 + 首先需要修改excelData文件中的excel路径
